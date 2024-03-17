@@ -1,7 +1,7 @@
 {
   "GuardHP":200,
   "PrisonerHP":50,
-  "MidgameWinRatio":1,
+  "MidgameWinRatio":0.8,
   "EndgameWinRatio":0.55,
   "RockRespawnMin":30,
   "RockRespawnMax":50,
